@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WadiPM" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#2A9D8F</item>
+        <item name="colorPrimaryVariant">#1A7A6E</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#E9C46A</item>
+        <item name="android:statusBarColor">#0A1218</item>
+        <item name="android:navigationBarColor">#0A1218</item>
+        <item name="android:windowBackground">#0A1218</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.WadiPM.Splash" parent="Theme.WadiPM">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>

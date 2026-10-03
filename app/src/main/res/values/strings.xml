@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">داشبورد وادی</string>
+    <string name="loading">در حال بارگذاری...</string>
+    <string name="error_offline">اتصال اینترنت برقرار نیست</string>
+    <string name="retry">تلاش مجدد</string>
+    <string name="exit_confirm">برای خروج دوباره دکمه بازگشت را بزنید</string>
+</resources>
